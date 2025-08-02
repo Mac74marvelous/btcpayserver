@@ -1,0 +1,30 @@
+{
+    "workbench.editorAssociations": {
+        "hexEditor": "hexedit",
+        "*/*yearly*": "true"
+    },
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "notebookOutputEditor": true,
+        "workbench.editors.gettingStartedInput": true,
+        "jupyter-notebook": true,
+        "workbench.input.interactive": true,
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.untitled.labelFormat": "content",
+    "workbench.editor.sharedViewState": true,
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "workbench.editor.defaultBinaryEditor": "workbench.editors.gettingStartedInput",
+    "python.analysis.addHoverSummaries": true,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.displayEnglishDiagnostics": true,
+    "python.analysis.exclude": [
+        "**/multi_root"
+    ],
+    "python.analysis.generateWithTypeAnnotation": true
+}
